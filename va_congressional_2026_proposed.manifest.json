@@ -1,0 +1,56 @@
+{
+  "artifact": {
+    "geojson": "C:\\My Projects\\GeoData\\dataBuilder\\work\\congressional_2026\\va_congressional_2026_proposed.geojson",
+    "geojson_sha256": "8bf7a5e760f4ad667076e2ad8a2d884457aaf3ee3b3659526df1b46795ef1143",
+    "mbtiles": "C:\\My Projects\\GeoData\\dataBuilder\\output\\va_congressional_2026_proposed.mbtiles",
+    "mbtiles_sha256": "650901cd5d8bd7a19e6cda7ec353f727decb3372edf51db28f6668d81ab1307b",
+    "mbtiles_size_bytes": 1908736
+  },
+  "build": {
+    "command": "uv run geodata build congressional-2026",
+    "created_at": "2026-04-30T00:00:32.970655+00:00",
+    "tools": {
+      "builder": "native-python",
+      "docker": "not-used",
+      "git_bash": "not-used"
+    }
+  },
+  "layer": {
+    "default_visibility": "off",
+    "display_name": "US House Proposed 2026",
+    "id": "va_congressional_2026_proposed"
+  },
+  "source": {
+    "effective_status": "proposed_opt_in_pending_final_legal_status",
+    "legal_note": "Virginia budget language and Va. Code 24.2-304.05 identify block equivalency files and the resulting shapefile as controlling; this layer remains proposed/opt-in until final legal and certification status is confirmed.",
+    "name": "VPAP planmap80 provisional GeoJSON",
+    "status": "provisional_vpap",
+    "url": "https://vpap-production.s3.amazonaws.com/static/districts/plan_maps/planmap80.json"
+  },
+  "validation": {
+    "bounds": {
+      "max_lat": 39.466011581663786,
+      "max_lon": -75.16642464735556,
+      "min_lat": 36.54085463112017,
+      "min_lon": -83.67539408920818
+    },
+    "district_ids": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "effective_status": "proposed_opt_in_pending_final_legal_status",
+    "feature_count": 11,
+    "passed": true,
+    "source_status": "provisional_vpap",
+    "validated_at": "2026-04-30T00:00:05.679519+00:00"
+  }
+}
