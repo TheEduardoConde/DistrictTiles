@@ -1,0 +1,166 @@
+{
+  "packages": [
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Fairfax Precincts",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/ffx_precincts.mbtiles",
+      "fileName": "ffx_precincts.mbtiles",
+      "id": "ffx_precincts",
+      "sha256": "73b8eaa509901ee3079088df5bdfb9d74835671a75bc76218e6f5a89076d0371",
+      "sizeBytes": 36626432,
+      "sourceGroup": "PRECINCTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Arlington County",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/nova_51013_arlington_county.mbtiles",
+      "fileName": "nova_51013_arlington_county.mbtiles",
+      "id": "nova_51013_arlington_county",
+      "sha256": "625062024fb8e9b02b092945320950dceca85813aca48ebd7bc37f31c867c5fa",
+      "sizeBytes": 1118208,
+      "sourceGroup": "NOVA_DISTRICTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Fairfax County",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/nova_51059_fairfax_county.mbtiles",
+      "fileName": "nova_51059_fairfax_county.mbtiles",
+      "id": "nova_51059_fairfax_county",
+      "sha256": "9f554a09c1a8b5d5ec4782cc9c64bd160c212ef7c3ba90cf3afab225b84de9ad",
+      "sizeBytes": 16678912,
+      "sourceGroup": "NOVA_DISTRICTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Fauquier County",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/nova_51061_fauquier_county.mbtiles",
+      "fileName": "nova_51061_fauquier_county.mbtiles",
+      "id": "nova_51061_fauquier_county",
+      "sha256": "58a8bcb430cd0f0a90a114e1bc77ad7c12d0e4ac0b99c03f5ca0cb80536bbe20",
+      "sizeBytes": 15081472,
+      "sourceGroup": "NOVA_DISTRICTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Loudoun County",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/nova_51107_loudoun_county.mbtiles",
+      "fileName": "nova_51107_loudoun_county.mbtiles",
+      "id": "nova_51107_loudoun_county",
+      "sha256": "40791810650ea4e469de39b65c2ecf5e3856cac38aac9a593c8e66c70c6a0dad",
+      "sizeBytes": 18919424,
+      "sourceGroup": "NOVA_DISTRICTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Prince William County",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/nova_51153_prince_william_county.mbtiles",
+      "fileName": "nova_51153_prince_william_county.mbtiles",
+      "id": "nova_51153_prince_william_county",
+      "sha256": "83be3a25beea88bea4298c553bf4c67c6e5b4c3b9426a6dcde5868ab0f5419a5",
+      "sizeBytes": 10477568,
+      "sourceGroup": "NOVA_DISTRICTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Spotsylvania County",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/nova_51177_spotsylvania_county.mbtiles",
+      "fileName": "nova_51177_spotsylvania_county.mbtiles",
+      "id": "nova_51177_spotsylvania_county",
+      "sha256": "6af9e9de1fe370a8fa86c15d4f062555d08c301c6d8970b3a1585c6511fad72c",
+      "sizeBytes": 9703424,
+      "sourceGroup": "NOVA_DISTRICTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Stafford County",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/nova_51179_stafford_county.mbtiles",
+      "fileName": "nova_51179_stafford_county.mbtiles",
+      "id": "nova_51179_stafford_county",
+      "sha256": "67170cf57b7d597c89af4be3dc298797c0046f03bda021b8c26e12975ee8ad33",
+      "sizeBytes": 6971392,
+      "sourceGroup": "NOVA_DISTRICTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Alexandria",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/nova_51510_alexandria_city.mbtiles",
+      "fileName": "nova_51510_alexandria_city.mbtiles",
+      "id": "nova_51510_alexandria_city",
+      "sha256": "ec05b88fcc1a733fa7d262fd2178c662dede0437f4fd534c13484e31cd3e4147",
+      "sizeBytes": 634880,
+      "sourceGroup": "NOVA_DISTRICTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Fairfax City",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/nova_51600_fairfax_city.mbtiles",
+      "fileName": "nova_51600_fairfax_city.mbtiles",
+      "id": "nova_51600_fairfax_city",
+      "sha256": "d612bfacfe4e6e762e9e836e26323152ffb05614515059cab6ff564f92193cc4",
+      "sizeBytes": 253952,
+      "sourceGroup": "NOVA_DISTRICTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Falls Church",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/nova_51610_falls_church_city.mbtiles",
+      "fileName": "nova_51610_falls_church_city.mbtiles",
+      "id": "nova_51610_falls_church_city",
+      "sha256": "76ebed2b80ca15bcba55abd64c6f3f526d0015643ede1043942c76547d98ef60",
+      "sizeBytes": 143360,
+      "sourceGroup": "NOVA_DISTRICTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Fredericksburg",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/nova_51630_fredericksburg_city.mbtiles",
+      "fileName": "nova_51630_fredericksburg_city.mbtiles",
+      "id": "nova_51630_fredericksburg_city",
+      "sha256": "b8ef5702477d7adeaf75debec96a47c61a9214cbafd34a36f632effde0beeb62",
+      "sizeBytes": 405504,
+      "sourceGroup": "NOVA_DISTRICTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Manassas",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/nova_51683_manassas_city.mbtiles",
+      "fileName": "nova_51683_manassas_city.mbtiles",
+      "id": "nova_51683_manassas_city",
+      "sha256": "ad53711643100c32649346033576d98377b1a66e33dc6269501637f77fbb1977",
+      "sizeBytes": 389120,
+      "sourceGroup": "NOVA_DISTRICTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "Manassas Park",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/nova_51685_manassas_park_city.mbtiles",
+      "fileName": "nova_51685_manassas_park_city.mbtiles",
+      "id": "nova_51685_manassas_park_city",
+      "sha256": "b58399fdaa7b0a130ec56bad231f418030e83c8ae80cd699f6b1d38de2c0ba72",
+      "sizeBytes": 221184,
+      "sourceGroup": "NOVA_DISTRICTS"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "US House 2027+",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/va_congressional_2026_proposed.mbtiles",
+      "fileName": "va_congressional_2026_proposed.mbtiles",
+      "id": "va_congressional_2026_proposed",
+      "sha256": "2f176451c869e2d4c98bfc7e59d40231651183b72672748851122b2ec30a1636",
+      "sizeBytes": 1908736,
+      "sourceGroup": "CONGRESSIONAL_2027"
+    },
+    {
+      "dataDate": "2026-11-05",
+      "displayName": "US House 2021-2026",
+      "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/va_congressional_current.mbtiles",
+      "fileName": "va_congressional_current.mbtiles",
+      "id": "va_congressional_current",
+      "sha256": "c89c8a3f9a5b91a0cc1f62d9741ad1a8bc857dec1d120bee24018f3816a8e6ff",
+      "sizeBytes": 3301376,
+      "sourceGroup": "CONGRESSIONAL_CURRENT"
+    }
+  ],
+  "publishedAt": "2026-11-05T12:58:01Z",
+  "schemaVersion": 1
+}
