@@ -1,4 +1,57 @@
 {
+  "catalog": {
+    "catalogVersion": 1,
+    "files": [
+      {
+        "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/catalog/overlaps.json",
+        "path": "catalog/overlaps.json",
+        "sha256": "8eb19055ca89645f1f860fb298c4dd4e6ca056d8bd80b22d459ad20cedfa9aab",
+        "sizeBytes": 325398
+      },
+      {
+        "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/catalog/us_house_2026.json",
+        "path": "catalog/us_house_2026.json",
+        "sha256": "fcf9954d22106a7495eeb666d6910406b3d08a864b24327b841d4a251d4d9c9c",
+        "sizeBytes": 609275
+      },
+      {
+        "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/catalog/us_house_current.json",
+        "path": "catalog/us_house_current.json",
+        "sha256": "0ebb854bf27dfa5f7a496ef74611fe666c16485dfbeeb45a7b3b2492d76050f6",
+        "sizeBytes": 711770
+      },
+      {
+        "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/catalog/va_county_city.json",
+        "path": "catalog/va_county_city.json",
+        "sha256": "397b48e59f6858d83ba5fadfb263020efbeae682c31950c1f1cdee1ccd313f15",
+        "sizeBytes": 161044
+      },
+      {
+        "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/catalog/va_house_of_delegates.json",
+        "path": "catalog/va_house_of_delegates.json",
+        "sha256": "7d448c801901fa90e42a345094c97014c901911e13fb45cb49f1658540e98bfe",
+        "sizeBytes": 296287
+      },
+      {
+        "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/catalog/va_magisterial_supervisor.json",
+        "path": "catalog/va_magisterial_supervisor.json",
+        "sha256": "2ef8a474bd9a83b2f845b61419f83c76bbf5f294c92cedf02b5b0343f98e4e9b",
+        "sizeBytes": 206945
+      },
+      {
+        "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/catalog/va_precinct.json",
+        "path": "catalog/va_precinct.json",
+        "sha256": "917be816aa030db61fcc9deff1d5746026e4cdd704b134e497bc6d86a3bb68eb",
+        "sizeBytes": 1044164
+      },
+      {
+        "downloadUrl": "https://raw.githubusercontent.com/TheEduardoConde/DistrictTiles/main/catalog/va_state_senate.json",
+        "path": "catalog/va_state_senate.json",
+        "sha256": "72db12fe370611ffad0d63a0e23873eff6df6a3647f10053185c02fcbdf57d5c",
+        "sizeBytes": 229798
+      }
+    ]
+  },
   "packages": [
     {
       "dataDate": "2026-11-05",
@@ -161,6 +214,6 @@
       "sourceGroup": "CONGRESSIONAL_CURRENT"
     }
   ],
-  "publishedAt": "2026-11-05T12:58:01Z",
+  "publishedAt": "2026-11-07T05:07:30Z",
   "schemaVersion": 1
 }
